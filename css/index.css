@@ -18,7 +18,7 @@ body {
 	background: #8ccdc2;
 	color: #fff;
 	font-size: 18px;
-	line-height: 1.5;
+	line-height: 1.6;
 }
 
 a {
@@ -119,7 +119,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #nav-header .nav-list li.nav-item-active span {
-	font-weight: bold;
 	background: #eee;
 	color: #323232;
 }
@@ -209,30 +208,24 @@ header .description::after {
 .post .meta {
 	display: flex;
 	align-items: center;
-}
-.post .meta a {
-	padding: 0 3px;
-	margin-right: 10px;
-	background: #eee;
-	border: 3px solid transparent;
-}
-.post .meta a:hover {
-	border-bottom: 3px solid #aaa;
+	width: 100%;
 }
 
 .post .time {
-	color: #888;
+	width: 40%;
+	flex: auto;
+	text-align: right;
 	font-size: smaller;
 	font-weight: 300;
 	text-transform: uppercase;
 	margin-bottom: 5px;
 	margin-left: auto;
 	font-family: 'Oswald', sans-serif;
+	color: #888;
 }
 
 .post .content {
 	color: #555;
-	line-height: 1.5;
 	font-family: 'Hind', sans-serif;
 }
 
@@ -317,81 +310,6 @@ header .description::after {
 
 .pagination a:hover {
 	border-color: #8ccdc2;
-}
-
-/* Komentar */
-h3#comments {
-	padding: 20px;
-	background: #fff;
-	color: #333;
-	border-top: 1px solid #ddd;
-}
-
-.comment {
-	background: #eee;
-	padding: 20px;
-	color: #323232;
-	font-family: sans-serif;
-	font-size: 16px
-}
-
-.comment .avatar {
-	float: left;
-	background: #aaa;
-	width: 50px;
-	height: 50px;
-	margin: 0 10px 0 0;
-	border-radius: 10px
-}
-.comment .author {
-	font-weight: bold;
-	font-style: normal;
-}
-.comment .meta {
-	font-size: medium
-}
-.comment .content {
-	margin-top: 10px;
-}
-
-.comment-form {
-	background: #fff;
-	color: #222;
-	padding: 20px;
-	font-family: 'Hind', sans-serif;
-}
-
-.comment-form label {
-	display: block;
-	margin-top: 5px;
-}
-
-.comment-notes {
-	margin: 10px 0;
-	padding: 20px;
-	background: #eee;
-}
-
-.required {color: red}
-
-.comment-form input,
-.comment-form textarea {
-	border: 3px solid #888;
-	background: #fff;
-	padding: 10px;
-	font-size: large;
-	width: 100%;
-}
-
-.comment-form button {
-	width: auto;
-	border: none;
-	display: block;
-	background: #515689;
-	color: #fff;
-	padding: 10px;
-	margin-top: 10px;
-	font-family: 'Oswald', sans-serif;
 }
 
 
