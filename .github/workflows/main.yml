@@ -34,7 +34,7 @@ jobs:
       - name: Build
         run: |
           npm run build
-          touch ./dist/.nojekyll
+          touch ./_site/.nojekyll
       # Push to your pages repo
       - name: Push to pages repo
         uses: cpina/github-action-push-to-another-repository@main
