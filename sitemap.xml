@@ -2,72 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://example.com/posts/firstpost/</loc>
+    <loc>https://example.com/11ty-humbly/posts/firstpost/</loc>
     <lastmod>2018-05-01</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/secondpost/</loc>
+    <loc>https://example.com/11ty-humbly/posts/secondpost/</loc>
     <lastmod>2018-07-04</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/thirdpost/</loc>
+    <loc>https://example.com/11ty-humbly/posts/thirdpost/</loc>
     <lastmod>2018-08-24</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/fourthpost/</loc>
+    <loc>https://example.com/11ty-humbly/posts/fourthpost/</loc>
     <lastmod>2018-09-30</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://example.com/11ty-humbly/about/</loc>
     <lastmod>2021-10-21</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/</loc>
+    <loc>https://example.com/11ty-humbly/posts/</loc>
     <lastmod>2021-10-21</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://example.com/11ty-humbly/</loc>
     <lastmod>2021-10-21</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/page-list/</loc>
+    <loc>https://example.com/11ty-humbly/page-list/</loc>
     <lastmod>2021-10-21</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/search/</loc>
+    <loc>https://example.com/11ty-humbly/search/</loc>
     <lastmod>2021-10-21</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://example.com/11ty-humbly/tags/</loc>
     <lastmod>2021-10-21</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/another-tag/</loc>
+    <loc>https://example.com/11ty-humbly/tags/another-tag/</loc>
     <lastmod>2021-10-21</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/second-tag/</loc>
+    <loc>https://example.com/11ty-humbly/tags/second-tag/</loc>
     <lastmod>2021-10-21</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/number-2/</loc>
+    <loc>https://example.com/11ty-humbly/tags/number-2/</loc>
     <lastmod>2021-10-21</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/posts-with-two-tags/</loc>
+    <loc>https://example.com/11ty-humbly/tags/posts-with-two-tags/</loc>
     <lastmod>2021-10-21</lastmod>
   </url>
 </urlset>
